@@ -6,11 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This app is a feedback app with flutter, with two files in lib (main which includes the homepage, and second_page which includes the page where the feed back will take place)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app and the code focuses on anvigation between the pages and usage of tex t fields and buttons and the alertdialog when you click submit
